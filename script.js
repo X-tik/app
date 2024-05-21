@@ -171,7 +171,7 @@ setInterval(setBackgroundImage, 5000);
     function completedAnimation() {
         // Update variables and CSS classes
         completed = true;
-       location.href ='https://sfile.mobi/downloadfile/1552308/2/9490b292f7f24d3f682f4603fef76ee4/x-tik.apk&k=e72e3317f9c4a4c7f96c937a5533b10e'; buttonContainer.classList.add('completed');
+       location.href ='https://github.com/X-tik/app/releases/download/x-tik/X-Tik.SFILE.MOBI.apk'; buttonContainer.classList.add('completed');
         // Wait 1s for the ball animation
         setTimeout(function () {
             button.classList.add('button-hidden');
