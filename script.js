@@ -65,7 +65,7 @@ function setBackgroundImage() {
 setBackgroundImage();
 
 // Change the background image every 5 seconds
-setInterval(setBackgroundImage, 5000);
+setInterval(setBackgroundImage, 15000);
 
 
 
